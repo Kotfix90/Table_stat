@@ -12,11 +12,11 @@
 
 2. **Команда для запуска скрипта:**
     ```bash
-   python python main.py --video "назвние_видео".mp4
+   python python main.py --video "название_видео".mp4
 
 3. **Данне для работы проекта:**
     Было выбрано видео "видео 1.mp4" 
-    ![и столик](C:\Users\Vyacheslave\Desktop\test\DodoPiTZA\chosed_table.png)
+    ![и столик](chosed_table.png)
 
 4. **Логика детекции событий**
 
