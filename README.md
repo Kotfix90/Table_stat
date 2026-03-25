@@ -16,7 +16,7 @@
 
 3. **Данне для работы проекта:**
     Было выбрано видео "видео 1.mp4" 
-    и столик C:\Users\Vyacheslave\Desktop\test\DodoPiTZA\chosed_table.png
+    ![и столик](C:\Users\Vyacheslave\Desktop\test\DodoPiTZA\chosed_table.png)
 
 4. **Логика детекции событий**
 
